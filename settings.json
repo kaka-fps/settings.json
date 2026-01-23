@@ -1,16 +1,34 @@
 {
-    "workbench.colorTheme": "Origamid Next",
+    "editor.unicodeHighlight.nonBasicASCII": false,
     "editor.wordWrap": "on",
     "editor.wordWrapColumn": 55,
-    "editor.fontSize": 11,
-    "editor.cursorBlinking": "phase",
+    "editor.fontSize": 18,
+    "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": "on",
-    "editor.cursorStyle":"block",
+    "editor.cursorStyle":"block-outline",
     "editor.minimap.renderCharacters": false,
     "editor.minimap.enabled": false,
     "workbench.editor.labelFormat": "short",
     "editor.linkedEditing": true,
     "editor.scrollbar.horizontal": "hidden",
-    "editor.scrollbar.vertical": "hidden"
-
+    "editor.scrollbar.vertical": "hidden",
+    "workbench.colorTheme": "Kanagawa Black",
+    "background.windowBackgrounds": [
+        "C:\\Users\\pixel\\Documents\\background"
+    ],
+    
+  "background.fullscreen": {
+    "images": [
+      // local images
+  "C:/Users/pixel/Documents/background"
+    ],
+    "opacity": 0.2,
+    "size": "cover",
+    "position": "center",
+    "interval": 0,
+    "random": true
+  },
+  // `sidebar` and `panel` have the same config as `fullscreen`
+  "background.sidebar": {},
+  "background.panel": {}
 }
