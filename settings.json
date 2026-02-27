@@ -30,5 +30,6 @@
   },
   // `sidebar` and `panel` have the same config as `fullscreen`
   "background.sidebar": {},
-  "background.panel": {}
+  "background.panel": {},
+  "workbench.iconTheme": "material-icon-theme"
 }
